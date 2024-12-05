@@ -1,9 +1,8 @@
 #  The contact options.
 
- - type: bluesky
-   icon: 'fa-brands fa-bluesky'
-   url: 'https://bsky.app/profile/khaki-bear.net'                   # Fill with your Bluesky profile link
-
+- type: bluesky
+  icon: 'fa-brands fa-bluesky'
+  url: 'https://bsky.app/profile/khaki-bear.net'
 
 - type: twitter
   icon: "fa-brands fa-x-twitter"
@@ -12,9 +11,9 @@
   icon: "fas fa-envelope"
   noblank: true # open link in current tab
 
-- type: rss
-  icon: "fas fa-rss"
-  noblank: true
+#- type: rss
+#  icon: "fas fa-rss"
+#  noblank: true
 # Uncomment and complete the url below to enable more contact options
 #
 #- type: github
